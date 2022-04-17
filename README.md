@@ -1,4 +1,6 @@
 # 3dMaze (Canvas Fun)
+How to Run: Download code, extract the zip file, navigate to main.html and click to run!
+
 Video Demo: https://www.youtube.com/watch?v=ubJLTP-Oz-g
 
 Use the arrow keys to navigate the maze and obtain all 15 gems.
